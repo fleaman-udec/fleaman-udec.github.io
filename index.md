@@ -63,6 +63,10 @@ Todas las publicaciones se pueden leer y descargar en el sitio web: [Publicacion
 
 ### Participación en proyectos destacados
 
+**Investigación**
+- Características de la Interacción Rotor-Estator para el Diagnóstico de la Condición Mecánica en Turbomáquinas Radiales. CONICYT "Tesis de Postgrado en la Industria", Código 78111105. Duración: 2011-2012
+
+**Industria**
 - Prototipo de tambor de corte inteligente para detección de mineral objetivo en tiempo real.
 - Desarrollo de sistema de asistencia para el proceso de desquinche en minería subterránea.
 - Factibilidad técnica del uso de emisiones acústicas para detección de fallas en procesos de soldadura.
