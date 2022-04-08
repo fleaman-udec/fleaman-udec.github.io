@@ -39,3 +39,18 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Temas de PIM, Memoria y Tesis
 
 Having trouble with Pages? Check out our [documentation](https://fleaman-udec.github.com/pim-memorias/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Publicaciones
+
+Las publicaciones se pueden ver y descargar en el sitio web: [Publicaciones](https://www.researchgate.net/profile/Felix-Leaman/research)
+
+### Participación en proyectos destacados
+
+- Prototipo de tambor de corte inteligente para detección de mineral objetivo en tiempo real.
+- Desarrollo de sistema de asistencia para el proceso de desquinche en minería subterránea.
+- Factibilidad técnica del uso de emisiones acústicas para detección de fallas en procesos de soldadura.
+- Factibilidad técnica del uso de emisiones acústicas para monitoreo de condición de engranajes de turbinas eólicas.
+- Estudio de aptitud para el servicio de horno de cal posterior a falla en refractarios.
+- Desarrollo de sistema de detección de elementos inchancables en cargadores frontales.
+- Prototipo de sistema de medición de velocidad angular instantánea en mandos finales de camiones mineros.
+- Análisis de vibraciones en flota de palas electromecánicas.
