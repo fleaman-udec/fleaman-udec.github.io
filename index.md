@@ -42,7 +42,24 @@ Having trouble with Pages? Check out our [documentation](https://fleaman-udec.gi
 
 ### Publicaciones
 
-Las publicaciones se pueden ver y descargar en el sitio web: [Publicaciones](https://www.researchgate.net/profile/Felix-Leaman/research)
+**En revistas**
+1. Leaman, F., Niedringhaus, C., Hinderer, S. & K. Nienhaus (2019) Evaluation of acoustic emission burst detection methods in a gearbox under different operating conditions. Journal of Vibration and Control, 25(4), 895-906. 
+2. Leaman, F., Hinderer, S., Baltes. R., Clausen, E., Rieckhoff, B., Schelenz, R. & Jacobs, G. (2019) Acoustic emission source localization in ring gears from wind turbine planetary gearboxes. Forschung im Ingenieurwesen, 83(1), 43-52.
+3. Leaman, F., Vicuña, C.M., Baltes, R. & Clausen, E. (2019) Pattern recognition approach for acoustic emission burst detection in a gearbox under different operating conditions. Journal of Vibration and Control, 25(17), 2295-2304.
+4. Leaman, F., Herz, A., Brinnel, V., Baltes, R., Clausen, E. (2020) Analysis of acoustic emission signals during fatigue testing of a M36 bolt using the Hilbert-Huang spectrum. Structural Monitoring and Maintenance, 7(1), 19-31.
+5. Leaman, F., Vicuña, C.M. & Clausen, E. (2021) A Review of Gear Fault Diagnosis of Planetary Gearboxes Using Acoustic Emissions. Acoustics Australia, 49, 265-272.
+6. Carrasco, A., Mendez, F., Leaman, F. & Vicuña, C.M. (2021) Short Review of the Use of Acoustic Emissions for Detection and Monitoring of Cracks. Acoustics Australia, 49, 273-280.
+7. Leaman, F., Baltes, R. & Clausen, E. (2021) Comparative case studies on ring gear fault diagnosis of planetary gearboxes using vibrations and acoustic emissions. Forschung im Ingenieurwesen, 85, 619-628. 
+8. Leaman, F., Vicuña, C.M., Clausen, E. (2021) Potential of Empirical Mode Decomposition for Hilbert Demodulation of Acoustic Emission Signals in Gearbox Diagnostics. Journal of Vibration Engineering & Technologies.
+
+**En congresos**
+1. Leaman, F., Rodríguez, C.G. & Egusquiza, E. (2012, December) Características frecuenciales de la interacción rotor‑estator en una turbina‑bomba con combinación de álabes 7/16. In: XV Congreso Chileno de Ingeniería Mecánica, La Serena, Chile.
+2. Leaman, F., Späth, B. & Nienhaus, K. (2018, June) Estudio experimental de análisis de emisiones acústicas y su potencial aplicación para la clasificación de rocas. In: II Congreso Iberoamericano en Minería Subterránea y a Cielo Abierto, Santiago, Chile.
+3. Leaman, F., Vicuña, C.M., Baltes, R. & Clausen, E. (2019, July) Fault prognosis of a planetary gearbox using acoustic emission and genetic algorithm: a case study. In: Surveillance, Vibrations, Shocks and Noise Conference, Lyon, France.
+4. Leaman, F., Baltes, R. & Clausen, E. (2020, August) A method of fusing acoustic emission and vibration data for gearbox fault diagnosis. In: Machinery Failure Prevention Technology Conference, Online.
+5. Leaman, F. & Clausen, E. (2021, November) Caracterización de rocas en procesos mineros mediante tecnologías de emisiones acústicas y termografía infrarroja. In: XXII Simposium de Ingeniería en Minas, Santiago, Chile.
+
+Todas las publicaciones se pueden leer y descargar en el sitio web: [Publicaciones](https://www.researchgate.net/profile/Felix-Leaman/research)
 
 ### Participación en proyectos destacados
 
