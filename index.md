@@ -1,3 +1,11 @@
+### Líneas de investigación y desarrollo
+
+- Mantenimiento predictivo
+- Análisis de emisiones acústicas en materiales
+- Aprendizaje automático aplicado
+- Procesamiento digital de señales
+- Sistemas de medición y tecnología de sensores
+
 ### Temas de PIM, memoria y tesis disponibles
 
 - Evaluación de atributos y modelos de aprendizaje automático para detección de falla en engranaje planetario
@@ -9,13 +17,15 @@
 
 Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
 
-### Líneas de investigación y desarrollo
+### Redes y plataformas
 
-- Mantenimiento predictivo
-- Análisis de emisiones acústicas en materiales
-- Aprendizaje automático aplicado
-- Procesamiento digital de señales
-- Sistemas de medición y tecnología de sensores
+- LinkedIn
+- ResearchGate
+- GitHub
+- [ORCID](https://orcid.org/0000-0003-1009-5368)
+
+
+
 
 ### Publicaciones
 
