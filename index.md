@@ -19,13 +19,10 @@ Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec
 
 ### Redes y plataformas
 
-- LinkedIn
-- ResearchGate
-- GitHub
+- [LinkedIn](https://www.linkedin.com/in/felix-leaman/)
+- [ResearchGate](https://www.researchgate.net/profile/Felix-Leaman/)
+- [GitHub](https://github.com/fleaman-udec/)
 - [ORCID](https://orcid.org/0000-0003-1009-5368)
-
-
-
 
 ### Publicaciones
 
