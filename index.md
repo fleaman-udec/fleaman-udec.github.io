@@ -7,7 +7,7 @@
 - Modelación de emisiones acústicas generadas por fricción rodante
 - Prototipo de un sistema de medición de vibraciones basado en Raspberry Pi
 
-Para mayor detalle revisar el sitio web: [Temas](https://fleaman-udec.github.com/pim-memorias/)
+Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
 
 ### Líneas de investigación y desarrollo
 
