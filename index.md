@@ -56,6 +56,7 @@ Todas las publicaciones se pueden leer y descargar en el sitio web: [Publicacion
 - Factibilidad técnica del uso de emisiones acústicas para detección de fallas en procesos de soldadura.
 - Factibilidad técnica del uso de emisiones acústicas para monitoreo de condición de engranajes de turbinas eólicas.
 - Estudio de aptitud para el servicio de horno de cal posterior a falla en refractarios.
+- Instrumentación y medición de deformaciones en molinos SAG y de bolas.
 - Desarrollo de sistema de detección de elementos inchancables en cargadores frontales.
 - Prototipo de sistema de medición de velocidad angular instantánea en mandos finales de camiones mineros.
 - Análisis de vibraciones en flota de palas electromecánicas.
