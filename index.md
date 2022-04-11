@@ -23,6 +23,7 @@ Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec
 - [ResearchGate](https://www.researchgate.net/profile/Felix-Leaman/)
 - [GitHub](https://github.com/fleaman-udec/)
 - [ORCID](https://orcid.org/0000-0003-1009-5368)
+- [Google Scholar](https://scholar.google.com/citations?user=4GOSS8MAAAAJ&hl=es)
 
 ### Publicaciones
 
