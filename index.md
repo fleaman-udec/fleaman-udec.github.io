@@ -28,7 +28,7 @@ Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec
 ### Publicaciones
 
 **Revistas**
-1. Leaman, F., Vicuña, C.M., Clausen, E. (2021) Potential of Empirical Mode Decomposition for Hilbert Demodulation of Acoustic Emission Signals in Gearbox Diagnostics. Journal of Vibration Engineering & Technologies.
+1. Leaman, F., Vicuña, C.M., Clausen, E. (2022) Potential of Empirical Mode Decomposition for Hilbert Demodulation of Acoustic Emission Signals in Gearbox Diagnostics. Journal of Vibration Engineering & Technologies, 10, 621-637.
 2. Leaman, F., Baltes, R. & Clausen, E. (2021) Comparative case studies on ring gear fault diagnosis of planetary gearboxes using vibrations and acoustic emissions. Forschung im Ingenieurwesen, 85, 619-628. 
 3. Leaman, F., Vicuña, C.M. & Clausen, E. (2021) A Review of Gear Fault Diagnosis of Planetary Gearboxes Using Acoustic Emissions. Acoustics Australia, 49, 265-272.
 4. Carrasco, A., Mendez, F., Leaman, F. & Vicuña, C.M. (2021) Short Review of the Use of Acoustic Emissions for Detection and Monitoring of Cracks. Acoustics Australia, 49, 273-280.
