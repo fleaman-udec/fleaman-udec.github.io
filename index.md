@@ -14,6 +14,7 @@
 - Diseño de un banco de ensayos para análisis de fricción deslizante y rodante
 - Modelación de emisiones acústicas generadas por fricción rodante
 - Prototipo de un sistema de medición de vibraciones basado en Raspberry Pi
+- Modelación de sistemas dinámicos mediante redes neuronales artificiales
 
 Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
 
