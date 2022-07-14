@@ -1,10 +1,11 @@
 ### Líneas de investigación y desarrollo
 
-- Mantenimiento predictivo
-- Análisis de emisiones acústicas en materiales
+- Mantenimiento prescriptivo
 - Aprendizaje automático aplicado
-- Procesamiento digital de señales
 - Sistemas de medición y tecnología de sensores
+- Procesamiento digital de señales
+- Análisis de emisiones acústicas en materiales
+
 
 ### Temas de PIM, memoria y tesis disponibles
 
