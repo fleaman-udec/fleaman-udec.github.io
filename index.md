@@ -16,8 +16,16 @@
 - Modelación de emisiones acústicas generadas por fricción rodante
 - Prototipo de un sistema de medición de vibraciones basado en Raspberry Pi
 - Modelación de sistemas dinámicos mediante redes neuronales artificiales
+- Diagnóstico de fallas en máquinas mediante clasificación automática de imágenes tiempo-frecuencia
 
 Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
+
+### Asignaturas
+
+- Estadística y probabilidades
+- Integración a través de CDIO
+- Aprendizaje automático en ingeniería mecánica
+- Métodos experimentales
 
 ### Redes y plataformas
 
