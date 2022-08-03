@@ -20,12 +20,12 @@
 
 Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
 
-### Asignaturas
+### Docencia en asignaturas
 
-- Estadística y probabilidades
-- Integración a través de CDIO
-- Aprendizaje automático en ingeniería mecánica
-- Métodos experimentales
+- Estadística y probabilidades (pregrado)
+- Integración a través de CDIO (pregrado)
+- Aprendizaje automático en ingeniería mecánica (pregrado)
+- Métodos experimentales (postgrado)
 
 ### Redes y plataformas
 
