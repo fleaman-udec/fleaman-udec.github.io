@@ -17,6 +17,7 @@
 - Prototipo de un sistema de medición de vibraciones basado en Raspberry Pi
 - Modelación de sistemas dinámicos mediante redes neuronales artificiales
 - Diagnóstico de fallas en máquinas mediante clasificación automática de imágenes tiempo-frecuencia
+- Generación de datos sintéticos mediante redes generativas antagónicas para el diagnóstico de condición de máquinas
 
 Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
 
