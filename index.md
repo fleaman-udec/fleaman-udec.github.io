@@ -18,6 +18,7 @@
 - Modelación de sistemas dinámicos mediante redes neuronales artificiales
 - Diagnóstico de fallas en máquinas mediante clasificación automática de imágenes tiempo-frecuencia
 - Generación de datos sintéticos mediante redes generativas antagónicas para el diagnóstico de condición de máquinas
+- Modelación fenomenológica de las emisiones acústicas generadas en engranajes planetarios
 
 Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
 
