@@ -1,6 +1,6 @@
 ### Líneas de investigación y desarrollo
 
-- Mantenimiento predictivo y prescriptivo
+- Mantenimiento predictivo
 - Aprendizaje automático aplicado
 - Sistemas de medición y tecnología de sensores
 - Procesamiento digital de señales
