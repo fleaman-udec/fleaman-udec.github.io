@@ -9,20 +9,25 @@
 
 ### Temas de PIM, memoria y tesis disponibles
 
-- Evaluación de atributos y modelos de aprendizaje automático para detección de falla en engranaje planetario
-- Un método para selección de wavelet madre en el análisis de emisiones acústicas mediante la transformada wavelet
-- Concepto de una descomposición modal empírica rápida para el análisis de señales
-- Diseño de un banco de ensayos para análisis de fricción deslizante y rodante
-- Modelación de emisiones acústicas generadas por fricción rodante
-- Prototipo de un sistema de medición de vibraciones basado en Raspberry Pi
-- Modelación de sistemas dinámicos mediante redes neuronales artificiales
-- Diagnóstico de fallas en máquinas mediante clasificación automática de imágenes tiempo-frecuencia
-- Generación de datos sintéticos mediante redes generativas antagónicas para el diagnóstico de condición de máquinas
-- Modelación fenomenológica de las emisiones acústicas generadas en engranajes planetarios
+1. Evaluación de atributos y modelos de aprendizaje automático para detección de falla en engranaje planetario
+2. Un método para selección de wavelet madre en el análisis de emisiones acústicas mediante la transformada wavelet
+3. Concepto de una descomposición modal empírica rápida para el análisis de señales
+4. Implementación de un banco de ensayos para análisis de fricción deslizante y rodante (*)
+5. Modelación de emisiones acústicas generadas por fricción rodante
+6. Prototipo de un sistema de medición de vibraciones basado en Raspberry Pi
+7. Modelación de sistemas dinámicos mediante redes neuronales artificiales
+8. Diagnóstico de fallas en máquinas mediante clasificación automática de imágenes tiempo-frecuencia
+9. Generación de datos sintéticos mediante redes generativas antagónicas para el diagnóstico de condición de máquinas
+10. Modelación fenomenológica de las emisiones acústicas generadas en engranajes planetarios
+11. Diseño de un banco de ensayos para análisis del contacto entre dientes de engranajes (*)
+12. Simulación de las ondas de emisiones acústicas generadas por fricción en ANSYS LS-DYNA (*)
+
+(*): Temas a desarrollar en el marco de proyecto FONDECYT
 
 Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
 
 Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.sharepoint.com/:f:/g/personal/fleaman_udec_cl/EqB8mE9gdwhJqw5OrFs9bD0BICtxwJLkEauwmsIKpief9g?e=sfA7pT)
+
 
 ### Docencia en asignaturas
 
