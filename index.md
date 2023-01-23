@@ -22,7 +22,7 @@
 
 Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
 
-Trabajos pasados se pueden obtener desde: [Repositorio](https://github.com/fleaman-udec/pim-memorias/](https://udeconce-my.sharepoint.com/:f:/g/personal/fleaman_udec_cl/EqB8mE9gdwhJqw5OrFs9bD0BICtxwJLkEauwmsIKpief9g?e=sfA7pT)
+Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.sharepoint.com/:f:/g/personal/fleaman_udec_cl/EqB8mE9gdwhJqw5OrFs9bD0BICtxwJLkEauwmsIKpief9g?e=sfA7pT)
 
 ### Docencia en asignaturas
 
