@@ -13,7 +13,7 @@
 2. Un método para selección de wavelet madre en el análisis de emisiones acústicas mediante la transformada wavelet
 3. Concepto de una descomposición modal empírica rápida para el análisis de señales
 4. Implementación de un banco de ensayos para análisis de fricción deslizante y rodante (*)
-5. Modelación de emisiones acústicas generadas por fricción rodante
+5. Modelación de emisiones acústicas generadas por fricción deslizante y rodante (*)
 6. Prototipo de un sistema de medición de vibraciones basado en Raspberry Pi
 7. Modelación de sistemas dinámicos mediante redes neuronales artificiales
 8. Diagnóstico de fallas en máquinas mediante clasificación automática de imágenes tiempo-frecuencia
