@@ -48,7 +48,7 @@ Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.shar
 ### Publicaciones
 
 **Revistas**
-1. Schoone, S., Getz, M., Leaman F., Clausen, E. (2023) Investigation of Acoustic Emissions and Friction Behavior in a Two-phase Flow with Different Sand Content. Mining, Metallurgy & Exploration, Published Online.
+1. Schoone, S., Getz, M., Leaman F., Clausen, E. (2023) Investigation of Acoustic Emissions and Friction Behavior in a Two-phase Flow with Different Sand Content. Mining, Metallurgy & Exploration, 40, 305-314.
 2. Leaman, F., Vicuña, C.M., Clausen, E. (2022) Potential of Empirical Mode Decomposition for Hilbert Demodulation of Acoustic Emission Signals in Gearbox Diagnostics. Journal of Vibration Engineering & Technologies, 10, 621-637.
 3. Leaman, F., Baltes, R. & Clausen, E. (2021) Comparative case studies on ring gear fault diagnosis of planetary gearboxes using vibrations and acoustic emissions. Forschung im Ingenieurwesen, 85, 619-628. 
 4. Leaman, F., Vicuña, C.M. & Clausen, E. (2021) A Review of Gear Fault Diagnosis of Planetary Gearboxes Using Acoustic Emissions. Acoustics Australia, 49, 265-272.
