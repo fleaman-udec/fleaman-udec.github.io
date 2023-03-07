@@ -7,7 +7,7 @@
 - Procesamiento digital de señales
 
 
-### Temas de PIM, memoria y tesis disponibles
+### Temas para PIM, memoria y tesis
 
 1. Evaluación de atributos y modelos de aprendizaje automático para detección de falla en engranaje planetario
 2. Un método para selección de wavelet madre en el análisis de emisiones acústicas mediante la transformada wavelet
