@@ -32,7 +32,6 @@ Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.shar
 ### Docencia en asignaturas
 
 - Estadística y probabilidades
-- Integración a través de CDIO
 - Redacción técnica y científica
 - Aprendizaje automático en ingeniería mecánica
 - Métodos experimentales
