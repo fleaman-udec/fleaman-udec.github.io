@@ -17,6 +17,7 @@
 6. Análisis experimental de emisiones acústicas generadas por contacto entre dientes de engranajes (*)
 7. Simulación de las ondas de emisiones acústicas generadas por fricción en ANSYS LS-DYNA (*)
 8. Detección experimental de defectos en estructuras mediante emisiones acústicas
+9. Influencia de los recubrimientos de pintura en la medición de emisiones acústicas
 
 (*): Temas a desarrollar en el marco de proyecto FONDECYT
 
