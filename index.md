@@ -4,10 +4,10 @@
 - Análisis de emisiones acústicas en materiales
 - Aprendizaje automático aplicado
 - Sistemas de medición y tecnología de sensores
-- Procesamiento digital de señales
+- Procesamiento digital de señales e imágenes
 
 
-### Temas para PIM, memoria y tesis
+### Temas para proyectos, memorias y tesis
 
 1. Un método para selección de wavelet madre en el análisis de emisiones acústicas mediante la transformada wavelet
 2. Concepto de una descomposición modal empírica rápida para el análisis de señales
@@ -32,6 +32,7 @@ Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.shar
 - Redacción técnica y científica
 - Aprendizaje automático en ingeniería mecánica
 - Métodos experimentales
+- Técnicas predictivas de mantenimiento
 
 ### Redes y plataformas
 
