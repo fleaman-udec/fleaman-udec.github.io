@@ -18,7 +18,8 @@
 7. Simulación de las ondas de emisiones acústicas generadas por fricción en ANSYS LS-DYNA (*)
 8. Detección experimental de defectos en estructuras mediante emisiones acústicas
 9. Influencia de los recubrimientos de pintura en la medición de emisiones acústicas
-10. Integración de algoritmos y sensores para generación de imágenes acústicas
+10. Implementación de sistema de medición de ultrasonido de bajo costo
+11. Integración de algoritmos y sensores para generación de imágenes acústicas
 
 (*): Temas a desarrollar en el marco de proyecto FONDECYT
 
