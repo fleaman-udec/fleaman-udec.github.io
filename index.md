@@ -20,6 +20,12 @@
 9. Influencia de los recubrimientos de pintura en la medición de emisiones acústicas
 10. Implementación de sistema de medición de ultrasonido de bajo costo
 11. Integración de algoritmos y sensores para generación de imágenes acústicas
+12. Mejoramiento de medición de vibración por video mediante integración con audio
+13. Granulometría en muestras de rocas mediante imágenes y aprendizaje profundo
+14. Análisis de emisiones acústicas en componentes impresos en plástico PLA
+15. Detección de elementos ocultos en muestras de rocas usando magnetometría
+16. Estudio de lubricación en banco de ensayos de contacto de engranajes (*)
+
 
 (*): Temas a desarrollar en el marco de proyecto FONDECYT
 
