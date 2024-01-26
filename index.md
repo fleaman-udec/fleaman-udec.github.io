@@ -30,11 +30,13 @@ Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.shar
 
 ### Docencia en asignaturas
 
-- Estadística y probabilidades
-- Redacción técnica y científica
-- Aprendizaje automático en ingeniería mecánica
-- Métodos experimentales
-- Técnicas predictivas de mantenimiento
+- Estadística y probabilidades (pregrado)
+- Redacción técnica y científica (pregrado)
+- Aprendizaje automático en ingeniería mecánica (pregrado y postgrado)
+- Técnicas predictivas de mantenimiento (pregrado y postgrado)
+- Métodos experimentales (postgrado)
+- Introducción a Python para ciencia de datos (postgrado)
+
 
 ### Redes y plataformas
 
