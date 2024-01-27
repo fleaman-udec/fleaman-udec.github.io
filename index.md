@@ -25,6 +25,7 @@
 14. Análisis de emisiones acústicas en componentes impresos en plástico PLA
 15. Detección de elementos ocultos en muestras de rocas usando magnetometría
 16. Estudio de lubricación en banco de ensayos de contacto de engranajes (*)
+17. Emisiones acústicas generadas por distintos materiales bajo carga estática
 
 
 (*): Temas a desarrollar en el marco de proyecto FONDECYT
