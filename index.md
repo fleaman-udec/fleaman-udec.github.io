@@ -56,17 +56,18 @@ Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.shar
 ### Publicaciones
 
 **Revistas**
-1. Leaman, F., Vicuña, C.M., Clausen, E. (2023) Experimental Investigation of Crack Detection in Ring Gears of Wind Turbine Gearboxes Using Acoustic Emissions. Journal of Vibration Engineering & Technologies. First Online.
-2. Schoone, S., Laumen, F., Leaman, F., Clausen, E. (2023) Experimental Study on Attenuation of Acoustic Emission Signals in Metallic Plates for Deep-Sea Mining. Mining, Metallurgy & Exploration, 40, 555-562.
-3. Schoone, S., Getz, M., Leaman F., Clausen, E. (2023) Investigation of Acoustic Emissions and Friction Behavior in a Two-phase Flow with Different Sand Content. Mining, Metallurgy & Exploration, 40, 305-314.
-4. Leaman, F., Vicuña, C.M., Clausen, E. (2022) Potential of Empirical Mode Decomposition for Hilbert Demodulation of Acoustic Emission Signals in Gearbox Diagnostics. Journal of Vibration Engineering & Technologies, 10, 621-637.
-5. Leaman, F., Baltes, R. & Clausen, E. (2021) Comparative case studies on ring gear fault diagnosis of planetary gearboxes using vibrations and acoustic emissions. Forschung im Ingenieurwesen, 85, 619-628. 
-6. Leaman, F., Vicuña, C.M. & Clausen, E. (2021) A Review of Gear Fault Diagnosis of Planetary Gearboxes Using Acoustic Emissions. Acoustics Australia, 49, 265-272.
-7. Carrasco, A., Mendez, F., Leaman, F. & Vicuña, C.M. (2021) Short Review of the Use of Acoustic Emissions for Detection and Monitoring of Cracks. Acoustics Australia, 49, 273-280.
-8. Leaman, F., Herz, A., Brinnel, V., Baltes, R., Clausen, E. (2020) Analysis of acoustic emission signals during fatigue testing of a M36 bolt using the Hilbert-Huang spectrum. Structural Monitoring and Maintenance, 7(1), 19-31.
-9. Leaman, F., Vicuña, C.M., Baltes, R. & Clausen, E. (2019) Pattern recognition approach for acoustic emission burst detection in a gearbox under different operating conditions. Journal of Vibration and Control, 25(17), 2295-2304.
-10. Leaman, F., Hinderer, S., Baltes. R., Clausen, E., Rieckhoff, B., Schelenz, R. & Jacobs, G. (2019) Acoustic emission source localization in ring gears from wind turbine planetary gearboxes. Forschung im Ingenieurwesen, 83(1), 43-52.
-11. Leaman, F., Niedringhaus, C., Hinderer, S. & K. Nienhaus (2019) Evaluation of acoustic emission burst detection methods in a gearbox under different operating conditions. Journal of Vibration and Control, 25(4), 895-906. 
+1.Leaman, F. (2024) A Review on Acoustic Emissions of Gear Transmissions: Source, Infuencing Parameters, Applications and Modeling. Journal of Vibration Engineering & Technologies. First Online.
+2. Leaman, F., Vicuña, C.M., Clausen, E. (2024) Experimental Investigation of Crack Detection in Ring Gears of Wind Turbine Gearboxes Using Acoustic Emissions. Journal of Vibration Engineering & Technologies, 12, 2111-2128.
+3. Schoone, S., Laumen, F., Leaman, F., Clausen, E. (2023) Experimental Study on Attenuation of Acoustic Emission Signals in Metallic Plates for Deep-Sea Mining. Mining, Metallurgy & Exploration, 40, 555-562.
+4. Schoone, S., Getz, M., Leaman F., Clausen, E. (2023) Investigation of Acoustic Emissions and Friction Behavior in a Two-phase Flow with Different Sand Content. Mining, Metallurgy & Exploration, 40, 305-314.
+5. Leaman, F., Vicuña, C.M., Clausen, E. (2022) Potential of Empirical Mode Decomposition for Hilbert Demodulation of Acoustic Emission Signals in Gearbox Diagnostics. Journal of Vibration Engineering & Technologies, 10, 621-637.
+6. Leaman, F., Baltes, R. & Clausen, E. (2021) Comparative case studies on ring gear fault diagnosis of planetary gearboxes using vibrations and acoustic emissions. Forschung im Ingenieurwesen, 85, 619-628. 
+7. Leaman, F., Vicuña, C.M. & Clausen, E. (2021) A Review of Gear Fault Diagnosis of Planetary Gearboxes Using Acoustic Emissions. Acoustics Australia, 49, 265-272.
+8. Carrasco, A., Mendez, F., Leaman, F. & Vicuña, C.M. (2021) Short Review of the Use of Acoustic Emissions for Detection and Monitoring of Cracks. Acoustics Australia, 49, 273-280.
+9. Leaman, F., Herz, A., Brinnel, V., Baltes, R., Clausen, E. (2020) Analysis of acoustic emission signals during fatigue testing of a M36 bolt using the Hilbert-Huang spectrum. Structural Monitoring and Maintenance, 7(1), 19-31.
+10. Leaman, F., Vicuña, C.M., Baltes, R. & Clausen, E. (2019) Pattern recognition approach for acoustic emission burst detection in a gearbox under different operating conditions. Journal of Vibration and Control, 25(17), 2295-2304.
+11. Leaman, F., Hinderer, S., Baltes. R., Clausen, E., Rieckhoff, B., Schelenz, R. & Jacobs, G. (2019) Acoustic emission source localization in ring gears from wind turbine planetary gearboxes. Forschung im Ingenieurwesen, 83(1), 43-52.
+12. Leaman, F., Niedringhaus, C., Hinderer, S. & K. Nienhaus (2019) Evaluation of acoustic emission burst detection methods in a gearbox under different operating conditions. Journal of Vibration and Control, 25(4), 895-906. 
 
 **Congresos**
 1. Riedel, K., Leaman, F., Tinapp, F. (2023, October) Modelación empírica del sistema dinámico de un dron hexarotor para estabilización de dispositivos de adquisición de imágenes durante vuelo. In: XXI Jornadas Chilenas de Mecánica Computacional, Santiago, Chile
