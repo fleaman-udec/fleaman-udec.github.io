@@ -14,25 +14,19 @@
 3. Modelación de sistemas dinámicos mediante redes neuronales artificiales
 4. Diagnóstico de fallas en máquinas mediante clasificación automática de imágenes tiempo-frecuencia
 5. Generación de datos sintéticos mediante redes generativas antagónicas para el diagnóstico de condición de máquinas
-6. Análisis experimental de emisiones acústicas generadas por contacto entre dientes de engranajes (*)
-7. Simulación de las ondas de emisiones acústicas generadas por fricción en ANSYS LS-DYNA (*)
-8. Detección experimental de defectos en estructuras mediante emisiones acústicas
-9. Influencia de los recubrimientos de pintura en la medición de emisiones acústicas
-10. Implementación de sistema de medición de ultrasonido de bajo costo
-11. Integración de algoritmos y sensores para generación de imágenes acústicas
-12. Mejoramiento de medición de vibración por video mediante integración con audio
-13. Granulometría en muestras de rocas mediante imágenes y aprendizaje profundo
-14. Análisis de emisiones acústicas en componentes impresos en plástico PLA
-15. Detección de elementos ocultos en muestras de rocas usando magnetometría y termografía
-16. Influencia de la lubricación en las emisiones acústicas generadas por contacto entre dientes de engranaje (*)
-17. Influencia de falla en las emisiones acústicas generadas por contacto entre dientes de engranaje (*)
-18. Emisiones acústicas generadas por distintos materiales bajo carga estática
+6. Integración de algoritmos y sensores para generación de imágenes acústicas
+7. Mejoramiento de medición de vibración por video mediante integración con audio
+8. Granulometría en muestras de rocas mediante procesamiento de imágenes y aprendizaje profundo
+9. Detección de elementos ocultos en muestras de rocas usando magnetometría y termografía
+10. Influencia de la lubricación en las emisiones acústicas generadas por contacto entre dientes de engranaje (*)
+11. Influencia de falla en las emisiones acústicas generadas por contacto entre dientes de engranaje (*)
+12. Emisiones acústicas generadas por distintos materiales bajo carga estática
 
 <!--  Análisis de emisiones acústicas en componentes impresos en plástico PLA -->
+<!--  Implementación de sistema de medición de ultrasonido de bajo costo -->
+<!--  Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/) -->
 
 (*): Temas a desarrollar en el marco de proyecto FONDECYT
-
-Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
 
 Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.sharepoint.com/:f:/g/personal/fleaman_udec_cl/EqB8mE9gdwhJqw5OrFs9bD0BICtxwJLkEauwmsIKpief9g?e=sfA7pT)
 
