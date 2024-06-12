@@ -23,10 +23,12 @@
 12. Mejoramiento de medición de vibración por video mediante integración con audio
 13. Granulometría en muestras de rocas mediante imágenes y aprendizaje profundo
 14. Análisis de emisiones acústicas en componentes impresos en plástico PLA
-15. Detección de elementos ocultos en muestras de rocas usando magnetometría
-16. Estudio de lubricación en banco de ensayos de contacto de engranajes (*)
-17. Emisiones acústicas generadas por distintos materiales bajo carga estática
+15. Detección de elementos ocultos en muestras de rocas usando magnetometría y termografía
+16. Influencia de la lubricación en las emisiones acústicas generadas por contacto entre dientes de engranaje (*)
+17. Influencia de falla en las emisiones acústicas generadas por contacto entre dientes de engranaje (*)
+18. Emisiones acústicas generadas por distintos materiales bajo carga estática
 
+<!--  Análisis de emisiones acústicas en componentes impresos en plástico PLA -->
 
 (*): Temas a desarrollar en el marco de proyecto FONDECYT
 
