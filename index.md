@@ -21,6 +21,8 @@
 10. Influencia de la lubricación en las emisiones acústicas generadas por contacto entre dientes de engranaje (*)
 11. Influencia de falla en las emisiones acústicas generadas por contacto entre dientes de engranaje (*)
 12. Emisiones acústicas generadas por distintos materiales bajo carga estática
+13. Modelación y validación experimental de emisiones acústicas generadas por fricción deslizante y rodante (*)
+
 
 <!--  Análisis de emisiones acústicas en componentes impresos en plástico PLA -->
 <!--  Implementación de sistema de medición de ultrasonido de bajo costo -->
