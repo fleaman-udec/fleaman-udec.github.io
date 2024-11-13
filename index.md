@@ -9,19 +9,25 @@
 
 ### Temas para proyectos, memorias y tesis
 
-1. Un método para selección de wavelet madre en el análisis de emisiones acústicas mediante la transformada wavelet
-2. Concepto de una descomposición modal empírica rápida para el análisis de señales
-3. Modelación de sistemas dinámicos mediante redes neuronales artificiales
-4. Diagnóstico de fallas en máquinas mediante clasificación automática de imágenes tiempo-frecuencia
-5. Generación de datos sintéticos mediante redes generativas antagónicas para el diagnóstico de condición de máquinas
-6. Integración de algoritmos y sensores para generación de imágenes acústicas
-7. Mejoramiento de medición de vibración por video mediante integración con audio
-8. Granulometría en muestras de rocas mediante procesamiento de imágenes y aprendizaje profundo
-9. Detección de elementos ocultos en muestras de rocas usando magnetometría y termografía
-10. Influencia de la lubricación en las emisiones acústicas generadas por contacto entre dientes de engranaje (*)
-11. Influencia de falla en las emisiones acústicas generadas por contacto entre dientes de engranaje (*)
-12. Emisiones acústicas generadas por distintos materiales bajo carga estática
-13. Modelación y validación experimental de emisiones acústicas generadas por fricción deslizante y rodante (*)
+1. Detección y pronóstico de corrosión en estanques mediante emisiones acústicas
+2. Modelación de sistemas dinámicos mediante redes neuronales artificiales físicamente informadas
+3. Modelación y validación experimental de emisiones acústicas generadas por el contacto entre engranajes (*)
+4. Monitoreo de salud de estructuras sometidas a cargas cíclicas mediante emisiones acústicas
+
+
+<!--  1. Un método para selección de wavelet madre en el análisis de emisiones acústicas mediante la transformada wavelet -->
+<!--  2. Concepto de una descomposición modal empírica rápida para el análisis de señales -->
+<!--  3. Modelación de sistemas dinámicos mediante redes neuronales artificiales -->
+<!--  4. Diagnóstico de fallas en máquinas mediante clasificación automática de imágenes tiempo-frecuencia -->
+<!--  5. Generación de datos sintéticos mediante redes generativas antagónicas para el diagnóstico de condición de máquinas -->
+<!--  6. Integración de algoritmos y sensores para generación de imágenes acústicas -->
+<!--  7. Mejoramiento de medición de vibración por video mediante integración con audio -->
+<!--  8. Granulometría en muestras de rocas mediante procesamiento de imágenes y aprendizaje profundo -->
+<!--  9. Detección de elementos ocultos en muestras de rocas usando magnetometría y termografía -->
+<!--  10. Influencia de la lubricación en las emisiones acústicas generadas por contacto entre dientes de engranaje (*) -->
+<!--  11. Influencia de falla en las emisiones acústicas generadas por contacto entre dientes de engranaje (*) -->
+<!--  12. Emisiones acústicas generadas por distintos materiales bajo carga estática -->
+<!--  13. Modelación y validación experimental de emisiones acústicas generadas por fricción deslizante y rodante (*) -->
 
 
 <!--  Análisis de emisiones acústicas en componentes impresos en plástico PLA -->
@@ -40,8 +46,6 @@ Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.shar
 - Aprendizaje automático en ingeniería mecánica (pregrado y postgrado)
 - Técnicas predictivas de mantenimiento (pregrado y postgrado)
 - Métodos experimentales (postgrado)
-- Introducción a Python para ciencia de datos (postgrado)
-
 
 ### Redes y plataformas
 
