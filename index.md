@@ -13,6 +13,8 @@
 2. Modelación de sistemas dinámicos mediante redes neuronales artificiales físicamente informadas
 3. Modelación y validación experimental de emisiones acústicas generadas por el contacto entre engranajes (*)
 4. Monitoreo de salud de estructuras sometidas a cargas cíclicas mediante emisiones acústicas
+5. Detección de ráfagas de emisiones acústicas mediante redes neuronales convolucionales
+6. Algoritmos para localización de fuentes de emisiones acústicas en 2D y 3D
 
 
 <!--  1. Un método para selección de wavelet madre en el análisis de emisiones acústicas mediante la transformada wavelet -->
