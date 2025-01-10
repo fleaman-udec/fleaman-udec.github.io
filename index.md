@@ -10,11 +10,13 @@
 ### Temas para proyectos, memorias y tesis
 
 1. Detección y pronóstico de corrosión en estanques mediante emisiones acústicas
-2. Modelación de sistemas dinámicos mediante redes neuronales artificiales físicamente informadas
-3. Modelación y validación experimental de emisiones acústicas generadas por el contacto entre engranajes (*)
-4. Monitoreo de salud de estructuras sometidas a cargas cíclicas mediante emisiones acústicas
-5. Detección de ráfagas de emisiones acústicas mediante redes neuronales convolucionales
-6. Algoritmos para localización de fuentes de emisiones acústicas en 2D y 3D
+2. Modelación de sistemas dinámicos mediante redes neuronales físicamente informadas
+3. Monitoreo de salud de estructuras sometidas a cargas cíclicas mediante emisiones acústicas
+4. Detección de ráfagas de emisiones acústicas mediante redes neuronales convolucionales
+5. Algoritmos para localización de fuentes de emisiones acústicas en 2D y 3D
+6. Mejoramiento de sistema inteligente de monitoreo y cuidado de adultos mayores
+7. Simulación de emisiones acústicas generadas por grietas en dientes de engranajes (*)
+8. Modelación de emisiones acústicas mediante redes neuronales físicamente informadas (*)
 
 
 <!--  1. Un método para selección de wavelet madre en el análisis de emisiones acústicas mediante la transformada wavelet -->
@@ -44,7 +46,6 @@ Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.shar
 ### Docencia en asignaturas
 
 - Estadística y probabilidades (pregrado)
-- Redacción técnica y científica (pregrado)
 - Aprendizaje automático en ingeniería mecánica (pregrado y postgrado)
 - Técnicas predictivas de mantenimiento (pregrado y postgrado)
 - Métodos experimentales (postgrado)
