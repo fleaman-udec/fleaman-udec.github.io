@@ -1,9 +1,8 @@
 ### Líneas de investigación y desarrollo
 
-- Mantenimiento predictivo y monitoreo de condición
 - Análisis de emisiones acústicas en materiales
-- Aprendizaje automático aplicado
-- Sistemas de medición y tecnología de sensores
+- Aprendizaje automático aplicado a diagnóstico y pronóstico de fallas
+- Monitoreo de condición de máquinas y vibraciones
 - Procesamiento digital de señales e imágenes
 
 
