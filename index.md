@@ -1,22 +1,17 @@
 ### Líneas de investigación y desarrollo
 
-- Análisis de emisiones acústicas en materiales
-- Aprendizaje automático aplicado a diagnóstico y pronóstico de fallas
-- Monitoreo de condición de máquinas y vibraciones
-- Procesamiento digital de señales e imágenes
+- Monitoreo de condición de máquinas y estructuras
+- Análisis de emisiones acústicas en sólidos
+- Aprendizaje automático para diagnóstico y pronóstico de fallas
+- Procesamiento digital de señales vibratorias
 
 
 ### Temas para proyectos, memorias y tesis
 
 1. Detección y pronóstico de corrosión en estanques mediante emisiones acústicas
 2. Modelación de sistemas dinámicos mediante redes neuronales físicamente informadas
-3. Monitoreo de salud de estructuras sometidas a cargas cíclicas mediante emisiones acústicas
-4. Detección de ráfagas de emisiones acústicas mediante redes neuronales convolucionales
-5. Algoritmos para localización de fuentes de emisiones acústicas en 3D
-6. Mejoramiento de sistema inteligente de monitoreo y cuidado de adultos mayores
-7. Evaluación de técnicas para detección de defectos en palas de aerogeneradores
-8. Simulación de emisiones acústicas generadas por grietas en dientes de engranajes (*)
-9. Modelación del valor global de la emisión acústica generada por una transmisión de engranajes (*)
+3. Detección de ráfagas de emisiones acústicas mediante redes neuronales convolucionales
+4. Simulación de emisiones acústicas generadas por grietas en dientes de engranajes
 
 
 <!--  1. Un método para selección de wavelet madre en el análisis de emisiones acústicas mediante la transformada wavelet -->
@@ -38,17 +33,17 @@
 <!--  Implementación de sistema de medición de ultrasonido de bajo costo -->
 <!--  Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/) -->
 
-(*): Temas a desarrollar en el marco de proyecto FONDECYT
 
 Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.sharepoint.com/:f:/g/personal/fleaman_udec_cl/EqB8mE9gdwhJqw5OrFs9bD0BICtxwJLkEauwmsIKpief9g?e=sfA7pT)
 
 
 ### Docencia en asignaturas
 
-- Estadística y probabilidades (pregrado)
-- Aprendizaje automático en ingeniería mecánica (pregrado y postgrado)
-- Técnicas predictivas de mantenimiento (pregrado y postgrado)
-- Métodos experimentales (postgrado)
+- Estadística y probabilidades
+- Mediciones
+- Aprendizaje automático en ingeniería mecánica
+- Métodos experimentales
+- Métodos matemáticos
 
 ### Redes y plataformas
 
