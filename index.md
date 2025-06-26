@@ -39,11 +39,12 @@ Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.shar
 
 ### Docencia en asignaturas
 
-- Estadística y probabilidades
 - Mediciones
+- Estadística y probabilidades
 - Aprendizaje automático en ingeniería mecánica
+- Técnicas predictivas de mantenimiento
 - Métodos experimentales
-- Métodos matemáticos
+
 
 ### Redes y plataformas
 
