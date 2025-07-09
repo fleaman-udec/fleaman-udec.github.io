@@ -73,12 +73,14 @@ Trabajos pasados se pueden obtener desde: [Repositorio](https://udeconce-my.shar
 13. Leaman, F., Niedringhaus, C., Hinderer, S. & K. Nienhaus (2019) Evaluation of acoustic emission burst detection methods in a gearbox under different operating conditions. Journal of Vibration and Control, 25(4), 895-906. https://doi.org/10.1177/1077546318802988
 
 **Congresos**
-1. Riedel, K., Leaman, F., Tinapp, F. (2023, October) Modelación empírica del sistema dinámico de un dron hexarotor para estabilización de dispositivos de adquisición de imágenes durante vuelo. In: XXI Jornadas Chilenas de Mecánica Computacional, Santiago, Chile
-2. Leaman, F. & Clausen, E. (2021, November) Caracterización de rocas en procesos mineros mediante tecnologías de emisiones acústicas y termografía infrarroja. In: XXII Simposium de Ingeniería en Minas, Santiago, Chile.
-3. Leaman, F., Baltes, R. & Clausen, E. (2020, August) A method of fusing acoustic emission and vibration data for gearbox fault diagnosis. In: Machinery Failure Prevention Technology Conference, Online.
-4. Leaman, F., Vicuña, C.M., Baltes, R. & Clausen, E. (2019, July) Fault prognosis of a planetary gearbox using acoustic emission and genetic algorithm: a case study. In: Surveillance, Vibrations, Shocks and Noise Conference, Lyon, France.
-5. Leaman, F., Späth, B. & Nienhaus, K. (2018, June) Estudio experimental de análisis de emisiones acústicas y su potencial aplicación para la clasificación de rocas. In: II Congreso Iberoamericano en Minería Subterránea y a Cielo Abierto, Santiago, Chile.
-6. Leaman, F., Rodríguez, C.G. & Egusquiza, E. (2012, December) Características frecuenciales de la interacción rotor‑estator en una turbina‑bomba con combinación de álabes 7/16. In: XV Congreso Chileno de Ingeniería Mecánica, La Serena, Chile.
+1. Riedel, K., Leaman, F., Tinapp, F., Vicuña, C. (2024, October) Transmisibilidad vibratoria de un sistema de aislación mecánico-pasivo para aplicaciones en RPAS. In: XVI Congreso Iberoamericano de Ingeniería Mecánica, Concepción, Chile.
+2. Segura, F., Leaman, F. (2024, October) Emisiones acústicas generadas por el contacto entre dientes de engranaje con perfil evolvente. In: XVI Congreso Iberoamericano de Ingeniería Mecánica, Concepción, Chile.
+3. Riedel, K., Leaman, F., Tinapp, F. (2023, October) Modelación empírica del sistema dinámico de un dron hexarotor para estabilización de dispositivos de adquisición de imágenes durante vuelo. In: XXI Jornadas Chilenas de Mecánica Computacional, Santiago, Chile
+4. Leaman, F. & Clausen, E. (2021, November) Caracterización de rocas en procesos mineros mediante tecnologías de emisiones acústicas y termografía infrarroja. In: XXII Simposium de Ingeniería en Minas, Santiago, Chile.
+5. Leaman, F., Baltes, R. & Clausen, E. (2020, August) A method of fusing acoustic emission and vibration data for gearbox fault diagnosis. In: Machinery Failure Prevention Technology Conference, Online.
+6. Leaman, F., Vicuña, C.M., Baltes, R. & Clausen, E. (2019, July) Fault prognosis of a planetary gearbox using acoustic emission and genetic algorithm: a case study. In: Surveillance, Vibrations, Shocks and Noise Conference, Lyon, France.
+7. Leaman, F., Späth, B. & Nienhaus, K. (2018, June) Estudio experimental de análisis de emisiones acústicas y su potencial aplicación para la clasificación de rocas. In: II Congreso Iberoamericano en Minería Subterránea y a Cielo Abierto, Santiago, Chile.
+8. Leaman, F., Rodríguez, C.G. & Egusquiza, E. (2012, December) Características frecuenciales de la interacción rotor‑estator en una turbina‑bomba con combinación de álabes 7/16. In: XV Congreso Chileno de Ingeniería Mecánica, La Serena, Chile.
 
 Todas las publicaciones se pueden leer y descargar en el sitio web: [Publicaciones](https://www.researchgate.net/profile/Felix-Leaman/research)
 
