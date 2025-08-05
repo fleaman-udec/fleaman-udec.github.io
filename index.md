@@ -3,15 +3,22 @@
 - Monitoreo de condición de máquinas y estructuras
 - Análisis de emisiones acústicas en sólidos
 - Aprendizaje automático para diagnóstico y pronóstico de fallas
-- Procesamiento digital de señales vibratorias
+- Procesamiento digital de señales
 
 
 ### Temas para proyectos, memorias y tesis
 
-1. Detección y pronóstico de corrosión en estanques mediante emisiones acústicas
-2. Modelación de sistemas dinámicos mediante redes neuronales físicamente informadas
-3. Detección de ráfagas de emisiones acústicas mediante redes neuronales convolucionales
-4. Simulación de emisiones acústicas generadas por grietas en dientes de engranajes
+1. Modelación dinámica de rodamientos integrando redes neuronales físicamente informadas para evaluación de defectos
+2. Monitoreo de salud estructural integrando medición de vibraciones y redes neuronales físicamente informadas
+3. Detección de defectos en palas de aerogeneradores mediante medición de emisión acústica
+4. Diagnóstico experimental de fallas en rodamientos usando deconvolución ciega de señales de emisión acústica
+5. Factibilidad técnica para detección de fallas en ejes mediante termografía por corrientes parásitas pulsadas
+6. Uso de termografía y ultrasonido para la evaluación de condiciones de fricción en contactos mecánicos
+7. Localización de fuentes de emisión acústica en estanques mediante un enfoque probabilístico
+8. Monitoreo de apriete en uniones apernadas sometidas a carga cíclica mediante medición de emisiones acústicas
+9. Modelación numérica y medición experimental de las ondas de emisión acústica generadas por fricción deslizante
+10. Detección de ráfagas de emisiones acústicas mediante redes neuronales convolucionales
+11. Detección y pronóstico de corrosión en estanques mediante emisiones acústicas
 
 
 <!--  1. Un método para selección de wavelet madre en el análisis de emisiones acústicas mediante la transformada wavelet -->
