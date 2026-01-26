@@ -7,12 +7,13 @@
 
 ### Temas para proyectos, memorias y tesis
 
-1. Monitoreo de apriete en uniones apernadas sometidas a carga cíclica mediante emisiones acústicas
-2. Factibilidad de monitoreo de salud estructural en palas de aerogeneradores mediante emisiones acústicas
-3. Desarrollo de plataforma personalizable para procesamiento y análisis de imágenes térmicas
-4. Localización de fuentes de emisión acústica en estanques mediante un enfoque probabilístico
-5. Comparación entre técnicas de vibraciones y emisiones acústicas para detección de defectos en rodamientos de bajas velocidad
-6. Aplicación del ultrasonido aerotransportado y estructural para monitoreo de parámetros tribológicos en contactos mecánicos
+1. Desarrollo de sensores virtuales para medición de vibraciones en palas de turbinas eólicas 
+2. Monitoreo de apriete en uniones apernadas sometidas a carga cíclica mediante emisiones acústicas
+3. Factibilidad de monitoreo de salud estructural en palas de aerogeneradores mediante emisiones acústicas
+4. Desarrollo de plataforma personalizable para procesamiento y análisis de imágenes térmicas
+6. Comparación entre técnicas de vibraciones y emisiones acústicas para detección de defectos en rodamientos de bajas velocidad
+7. Estimación de la velocidad angular instantánea mediante el análisis estadístico de vibraciones en equipos de velocidad variable
+8. Clasificación de regímenes de velocidad angular a partir de datos de vibración en perforadoras 
 
 
 
@@ -20,8 +21,11 @@
 2. Monitoreo de salud estructural integrando medición de vibraciones y redes neuronales físicamente informadas
 4. Diagnóstico experimental de fallas en rodamientos usando deconvolución ciega de señales de emisión acústica
 5. Factibilidad técnica para detección de fallas en ejes mediante termografía por corrientes parásitas pulsadas
+5. Localización de fuentes de emisión acústica en estanques mediante un enfoque probabilístico
 9. Modelación numérica y medición experimental de las ondas de emisión acústica generadas por fricción deslizante
 10. Detección de ráfagas de emisiones acústicas mediante redes neuronales convolucionales
+7. Aplicación del ultrasonido aerotransportado y estructural para monitoreo de parámetros tribológicos en contactos mecánicos
+
 11. Detección y pronóstico de corrosión en estanques mediante emisiones acústicas -->
 
 
