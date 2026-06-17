@@ -7,13 +7,24 @@
 
 ### Temas para proyectos, memorias y tesis
 
-1. Desarrollo de sensores virtuales para medición de vibraciones en palas de turbinas eólicas 
+2026-2
+1. Aprendizaje profundo multimodal basado en aceleración y emisión acústica para detección de fallas en rodamientos
+2. Redes neuronales físicamente informadas para evaluación de defectos estructurales en condiciones de carga dinámica
+3. Análisis experimental de vibraciones en transmisión por engranajes para distintos tipos y tamaños de fallas
+4. Medición de ultrasonido aerotransportado usando transductores de bajo costo para aplicaciones en ingeniería mecánica
+5. Benchmarking y propuesta de nuevo método para localización de fuentes de emisiones acústicas en estructuras cilíndricas
+6. Desarrollo de módulos de medición inalámbrica de variables físicas basados en ESP32
+7. Medición de movimiento de cabeceo en lanzamiento de buques mediante UAV instrumentado con proximitores ultrasónicos
+
+
+
+<!--  1. Desarrollo de sensores virtuales para medición de vibraciones en palas de turbinas eólicas 
 2. Monitoreo de apriete en uniones apernadas sometidas a carga cíclica mediante emisiones acústicas
 3. Factibilidad de monitoreo de salud estructural en palas de aerogeneradores mediante emisiones acústicas
 4. Desarrollo de plataforma personalizable para procesamiento y análisis de imágenes térmicas
 6. Comparación entre técnicas de vibraciones y emisiones acústicas para detección de defectos en rodamientos de bajas velocidad
 7. Estimación de la velocidad angular instantánea mediante el análisis estadístico de vibraciones en equipos de velocidad variable
-8. Clasificación de regímenes de velocidad angular a partir de datos de vibración en perforadoras 
+8. Clasificación de regímenes de velocidad angular a partir de datos de vibración en perforadoras  -->
 
 
 
