@@ -13,7 +13,7 @@
 3. Evaluación de aflojamiento en arreglo de uniones apernadas sometidas a carga cíclica mediante emisiones acústicas y termografía.
 4. Medición de ultrasonido aerotransportado usando transductores de bajo costo para evaluación de fricción.
 5. Desarrollo de módulos de medición inalámbrica de variables físicas basados en ESP32.
-6. Medición del movimiento vertical en vehículos mediante UAV instrumentado con proximitores ultrasónicos.
+6. (No disponible) Integración multimodal de imágenes RGB y emisiones acústicas para la evaluación automatizada de defectos estructurales en metales mediante redes neuronales profundas.
 
 Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
 
