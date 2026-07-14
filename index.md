@@ -10,10 +10,13 @@
 2026-2
 1. Análisis experimental de vibraciones y emisión acústica en transmisión por engranajes para distintos tipos y tamaños de fallas.
 2. Análisis experimental de vibraciones y emisión acústica en rodamientos para distintos tipos de fallas.
-3. Evaluación de aflojamiento en arreglo de uniones apernadas sometidas a carga cíclica mediante emisiones acústicas.
+3. Evaluación de aflojamiento en arreglo de uniones apernadas sometidas a carga cíclica mediante emisiones acústicas y termografía.
 4. Medición de ultrasonido aerotransportado usando transductores de bajo costo para evaluación de fricción.
 5. Desarrollo de módulos de medición inalámbrica de variables físicas basados en ESP32.
 6. Medición del movimiento vertical en vehículos mediante UAV instrumentado con proximitores ultrasónicos.
+
+Para mayor detalle revisar el sitio web: [Temas](https://github.com/fleaman-udec/pim-memorias/)
+
 
 <!--  
 1. Aprendizaje profundo multimodal basado en aceleración y emisión acústica para detección de fallas en rodamientos
